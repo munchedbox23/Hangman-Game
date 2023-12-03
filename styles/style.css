@@ -225,4 +225,13 @@ body {
   .game-box {
     width: 260px;
   }
+  .word-display {
+    gap: 4px;
+  }
+  .game-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
 }
