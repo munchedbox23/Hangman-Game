@@ -227,7 +227,6 @@ body {
   }
   .word-display {
     gap: 4px;
-    width: 100%;
   }
   .game-box {
     display: flex;
