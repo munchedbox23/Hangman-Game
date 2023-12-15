@@ -20,6 +20,7 @@ const resetGame = () => {
   keyboard.querySelectorAll('button').forEach((btn) => btn.disabled = false);
   wordDisplay.innerHTML = currentWord.split('').map(() => `<li class="letter"></li>`).join(''); 
   gameModal.classList.remove('show');
+  gameModal.querySelector('img').src = '';
 }
 /* Creating buttons */
 for (let i = 97; i <= 122; ++i) {
