@@ -22,4 +22,4 @@ The game starts with a painted gallows and begins to underline for each letter i
 ![1024x768](/Screenshots/1024x768.png)
 
 ### 1600x1200 Resolution
-![1600x1200](/screenshots/1600x1200.png)
+![1600x1200](/Screenshots/1600x1200.png)
