@@ -1,5 +1,5 @@
 # Hangman Documentation
-![1600x1200](/Screenshots/1600x1200 Resolution.png)
+![1600x1200](/Screenshots/1600x1200.png)
 [Hangman-Game](https://munchedbox23.github.io/Hangman-Game/)
 
 ## Introduction
@@ -16,10 +16,10 @@ The game starts with a painted gallows and begins to underline for each letter i
 ![iPhone SE](/Screenshots/IPhoneXR.png)
 
 ### iPad Mini
-![iPad Mini](/Screenshots/iPad Mini.png)
+![iPad Mini](/Screenshots/iPadMini.png)
 
 ### 1024x768 Resolution
-![1024x768](/Screenshots/1024x768 Resolution.png)
+![1024x768](/Screenshots/1024x768.png)
 
 ### 1600x1200 Resolution
-![1600x1200](/screenshots/1600x1200 Resolution.png)
+![1600x1200](/screenshots/1600x1200.png)
